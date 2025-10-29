@@ -46,12 +46,5 @@ The model is trained on publicly available Malayalam handwritten datasets and im
 ---
 
 
-### 📊 Model Training  
-Train the model using *Kaggle*:  
-🔗 [Click here](https://www.kaggle.com/) to access datasets and training resources.
-
----
-
-
 ###  🚀 Status
 Ongoing – improving model accuracy and segmentation pipeline.
