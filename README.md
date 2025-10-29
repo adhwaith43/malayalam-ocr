@@ -22,7 +22,6 @@ The model is trained on publicly available Malayalam handwritten datasets and im
 
 
 ## ⚙️ Features
-
 - ✅ Recognizes handwritten Malayalam characters  
 - ✅ 95%+ recognition accuracy on validation set  
 - ✅ Preprocessing pipeline:
